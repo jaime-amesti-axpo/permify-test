@@ -1,3 +1,5 @@
+entity user {}
+
 entity organization {
     relation group @group
     relation document @document
